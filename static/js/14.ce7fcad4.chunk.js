@@ -1,0 +1,2 @@
+(this["webpackJsonpnecro-frontend"]=this["webpackJsonpnecro-frontend"]||[]).push([[14],{850:function(n,e,o){"use strict";o.r(e);var t=o(0),c=(o(1),o(77)),r=o(235);e.default=function(){return Object(t.jsxs)(r.a,{children:[Object(t.jsx)(c.Heading,{children:"\ud83d\udcb1 Board Room"}),Object(t.jsx)(c.Text,{children:"Coming soon..."})]})}}}]);
+//# sourceMappingURL=14.ce7fcad4.chunk.js.map
