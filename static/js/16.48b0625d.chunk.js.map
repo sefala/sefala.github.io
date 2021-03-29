@@ -1,1 +1,0 @@
-{"version":3,"sources":["views/Bonds/index.tsx"],"names":["Bonds"],"mappings":"8JAIeA,UAFD,WAAQ,OAAO","file":"static/js/16.48b0625d.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nconst Bonds = () => { return <h1>Bonds</h1>}\r\n\r\nexport default Bonds"],"sourceRoot":""}
