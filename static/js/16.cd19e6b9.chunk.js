@@ -1,2 +1,0 @@
-(this["webpackJsonpsupra-dollar-frontend"]=this["webpackJsonpsupra-dollar-frontend"]||[]).push([[16],{871:function(n,r,t){"use strict";t.r(r);var s=t(832);t.d(r,"default",(function(){return s.b}))}}]);
-//# sourceMappingURL=16.cd19e6b9.chunk.js.map
